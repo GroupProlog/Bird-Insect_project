@@ -1,3 +1,3 @@
 # Introduction
 
-intro
+intro for the project 
